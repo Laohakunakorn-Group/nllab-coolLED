@@ -1,3 +1,6 @@
+# Serial command using pyserial
+# for CoolLED pE-300
+
 import serial, atexit
 
 ### Configure serial communication 
