@@ -4,10 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-serial = "*"
-pyserial = "*"
 pyqtgraph = "*"
 pyqt5 = "*"
+pyserial = "*"
 
 [dev-packages]
 
